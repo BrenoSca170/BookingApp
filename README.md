@@ -1,5 +1,7 @@
 # Projeto de Reservas OutSystems - Traditional
 
+<img width="831" height="640" alt="image" src="https://github.com/user-attachments/assets/f024bff7-e60f-403f-adcd-18120164625f" />
+
 Este repositório contém um projeto de aplicação web para gestão de reservas de hotéis, desenvolvido inteiramente na plataforma de desenvolvimento low-code OutSystems. [cite_start]O objetivo da aplicação é fornecer uma ferramenta para a equipe do hotel gerenciar o ciclo de vida completo das reservas dos hóspedes, desde o agendamento até o check-out. [cite: 18]
 
 ## Funcionalidades da Aplicação
